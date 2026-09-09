@@ -185,7 +185,6 @@ The dataset is illustrative and does not contain confidential or production busi
 
 ## Author
 
-**Punit Godiyal**
-
-Aspiring Data Analyst
+**Priyanshu**
+ Data Analyst
 **SQL | Power BI | Excel**
